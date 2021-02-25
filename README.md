@@ -1,7 +1,7 @@
 # ISC2021_GPAW
 
 ## About ISC Competition
-[TOC]
+
 
 # GPAW
 * ## Introduction
