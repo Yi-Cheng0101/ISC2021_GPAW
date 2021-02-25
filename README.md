@@ -1,8 +1,7 @@
 # ISC2021_GPAW
 
 ## About ISC Competition
-
-
+Co-organized by the HPC-AI Advisory Council and ISC Group.
 # GPAW
 * ## Introduction
     >GPAW is an open source program package for quantum mechanical atomistic simulations. It is based on the density-functional theory (DFT) and the projector-augmented wave (PAW) method, and it includes also more advanced models such as time-dependent density-functional theory and GW-approximation. Physical quantities that can be studied include equilibrium geometries of molecules, crystals, surfaces and various nanostructures, magnetic properties, formation energies, optical spectra, just to name a few.
