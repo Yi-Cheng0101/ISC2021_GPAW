@@ -59,3 +59,4 @@ Git: https://gitlab.com/gpaw/gpaw
   
   * mkl
 Math Kernel Library (MKL) 
+# gcc
