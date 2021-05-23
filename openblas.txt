@@ -1,6 +1,0 @@
-1.vim cpuid.h
-https://www.cnblogs.com/data2value/p/6612775.html
-2.vim Makefile.conf
-ADD_LDFLAGS=-lgfortran
-https://stackoverflow.com/questions/55508457/how-to-fix-undefined-reference-to-gfortran-concat-string-and-to-gfortran-etim
-3.make FC=gfortan
