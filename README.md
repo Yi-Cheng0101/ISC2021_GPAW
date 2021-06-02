@@ -1,4 +1,4 @@
-# ISC2021_GPAW
+# ISC2021 GPAW APPLICATION
 
 ## About ISC Competition
 Co-organized by the HPC-AI Advisory Council and ISC Group.
